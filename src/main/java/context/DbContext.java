@@ -4,7 +4,7 @@ import java.sql.*;
 public class DbContext {
     
     private final String serverName = "localhost";
-    private final String dbName = "Ten_CSDL";  //thay đổi tên CSDL cho dự án của bạn
+    private final String dbName = "ShopDB";  //thay đổi tên CSDL cho dự án của bạn
     private final String portNumber = "1433";  
     private final String userID = "sa";
     private final String password = "sa"; //thay đổi mật khẩu phù hợp (nếu cần)

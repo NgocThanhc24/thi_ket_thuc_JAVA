@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mycompany</groupId>
-    <artifactId>JavaNC_THI</artifactId>
+    <artifactId>JavaNC_THI_NguyenNgocMinhQuan</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>JavaNC_THI</name>
+    <name>JavaNC_THI_DangNgocThanh</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
